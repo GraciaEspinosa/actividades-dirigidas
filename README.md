@@ -1,8 +1,4 @@
-# actividades-dirigidas.github.io
-## cuatro actividades de la asignatura de periodismo de datos II
-### máster de periodismo digital y de datos online de la universidad nebrija
-
-# Documentación del proyecto web Aactividades dirigidas
+# Documentación del proyecto web Actividades dirigidas
 
 ## Estructura del documento
 
