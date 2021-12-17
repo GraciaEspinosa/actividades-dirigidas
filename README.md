@@ -66,5 +66,7 @@ En esta primera fase hice una recopilación de todo lo necesario para empezar:
 
 ### Fase 3: Entrega
 
+1. Para adjuntar el enlace de la página web fue necesario crear un repositorio en `settings - page - save (root)`
+
 
 ## Conclusiones
