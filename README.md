@@ -36,7 +36,7 @@ Acojo el proyecto como una oportunidad para poner en práctica el uso de tecnolo
 ### Fase 1: Puesta en marcha
 En esta primera fase hice una recopilación de todo lo necesario para empezar:
   - creación de una cuenta de github.
-  - Descarga de Visual Studio Code.
+  - Descarga de Visual Studio Code (vs).
   - Descarga de datos para la actividad 3 del repositorio proporcionado por el profesor.
   - Recopilación de datos previamente obtenidos en la asignatura periodismo de datos I, para la actividad 4.
   - Descarga de Open Refine, limpieza de los datos recopilados en los puntos anteriores.
@@ -60,13 +60,19 @@ En esta primera fase hice una recopilación de todo lo necesario para empezar:
   
   4. Descarga de la plantilla de bootstrap propuesta para la actividad, e implementación en el proyecto.
 
-  5. implementación de las actividades utilizando las estructuras y etiquetas de marcado apropiadas para cada tipo de elemento: texto, imágenes, enlaces, encabezados, iframes (gráficas datawraper)...
+  5. Implementación de las actividades utilizando las estructuras y etiquetas de marcado apropiadas para cada tipo de elemento: texto, imágenes, enlaces, encabezados, iframes (gráficas datawraper)...
 
   6. Afinación de estilos con un poco de css integrado dentro de la etiqueta `<head>` de index.html (colores, márgenes, etc.)
 
 ### Fase 3: Entrega
 
-1. Para adjuntar el enlace de la página web fue necesario crear un repositorio en `settings - page - save (root)`
+1. Para adjuntar el enlace de la página web fue necesario crear un repositorio.
+
+3. Fue necesario dirigirme a `settings - page - save (root)`.
+
+2. Una vez creado, lo único que tuve que hacer es seleccionar `upload files` y arrastrar la carpeta generada por el vs con mi código de html y css.
 
 
 ## Conclusiones
+
+A pesar de que el trabajo final parecía difícil, reconozco que hacer la página web ha sido más fácil de lo que me esperaba. No obstante, modificar la plantilla inicial del Bootstrap sí que me ha llevado tiempo; puesto que el documento base estaba muy desorganizado (muchos elementos del css se encontraban incorporados en el código HTML y no en la hoja de estilos).  
